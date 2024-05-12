@@ -1,6 +1,6 @@
 ## 🌐 Canlı Demo
 
-Projemizi keşfedin: [nextjs14-notion](https://kitapp-2.vercel.app/)
+Projemizi keşfedin: [Kitapp](https://kitapp-2.vercel.app/)
 
 ## 📝 Açıklama
 

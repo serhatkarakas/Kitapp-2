@@ -25,10 +25,10 @@ function ModeToggle() {
       </DropdownMenuTrigger>
       <DropdownMenuContent align="end">
         <DropdownMenuItem onClick={() => setTheme("light")}>
-          Aydınlık
+          Açık
         </DropdownMenuItem>
         <DropdownMenuItem onClick={() => setTheme("dark")}>
-          Karanlık
+          Koyu
         </DropdownMenuItem>
         <DropdownMenuItem onClick={() => setTheme("system")}>
           Sistem

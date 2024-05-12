@@ -21,22 +21,22 @@ EDGE_STORE_SECRET_KEY=<EDGE_STORE_SECRET_KEY>
 
 ## 💡 Özellikler
 
-Gerçek zamanlı veritabanı 🔗
-Notion tarzı düzenleyici 📝
-Açık ve Koyu tema 🌓
-Çöp kutusu 🗑️
-Kimlik doğrulama 🔐
-Dosya yükleme
-Dosya silme
-Dosya değiştirme
-Her belge için simgeler (gerçek zamanlı değişiklikler) 🌠
-Genişletilebilir yan çubuk ➡️🔀⬅️
-Tam mobil uyumluluk 📱
-Notunuzu web'e yayınlama 🌐
-Tamamen katlanabilir yan çubuk ↕️
-Anasayfa 🛬
-Her belgenin kapak resmi 🖼️
-Silinen dosyaları kurtarma 🔄📄
+-Gerçek zamanlı veritabanı 🔗
+-Notion tarzı düzenleyici 📝
+-Açık ve Koyu tema 🌓
+-Çöp kutusu 🗑️
+-Kimlik doğrulama 🔐
+-Dosya yükleme
+-Dosya silme
+-Dosya değiştirme
+-Her belge için simgeler (gerçek zamanlı değişiklikler) 🌠
+-Genişletilebilir yan çubuk ➡️🔀⬅️
+-Tam mobil uyumluluk 📱
+-Notunuzu web'e yayınlama 🌐
+-Tamamen katlanabilir yan çubuk ↕️
+-Anasayfa 🛬
+-Her belgenin kapak resmi 🖼️
+-Silinen dosyaları kurtarma 🔄📄
 
 ## ✨ Kullanılan Teknolojiler
 

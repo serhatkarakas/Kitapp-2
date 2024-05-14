@@ -4,7 +4,7 @@ Projemizi keşfedin: [Kitapp](https://kitapp-2.vercel.app/)
 
 ## 📝 Açıklama
 
-**Kitapp** Yazarlar için yazmayı kolaylaştıran bir web uygulamasıdır
+**Kitapp**yazmak hiç bu kadar kolay olamamıştı.
 
 ## 🔒 Environment Variables
 
@@ -19,7 +19,7 @@ EDGE_STORE_ACCESS_KEY=<EDGE_STORE_ACCESS_KEY>
 EDGE_STORE_SECRET_KEY=<EDGE_STORE_SECRET_KEY>
 ```
 
-## 💡 Features
+## 💡 Özellikler
 
 - Gerçek zamanlı veritabanı 🔗
 - Notion tarzı metin düzenleyici 📝
@@ -63,4 +63,4 @@ Aşağıdaki teknolojilere teşekkürlerimizi sunuyoruz.
 | `npm run build`  | Build your production site to `./dist/`     |
 | `npm run start`  | Start your production site locally          |
 | `npm run lint`   | Run ESLint                                  |
-| `npx convex dev` | Convex Database                             |
+| `npx convex dev` | Run Convex Database                         |

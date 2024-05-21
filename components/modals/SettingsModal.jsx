@@ -23,14 +23,6 @@ const SettingsModal = () => {
           </div>
           <ModeToggle />
         </div>
-        <div className="flex items-center justify-between">
-          <div className="flex flex-col gap-y-1">
-            <Label>Yapay Zeka Desteği</Label>
-            <span className="text-[0.8rem] text-muted-foreground">
-              Yakında sizlerle...
-            </span>
-          </div>
-        </div>
       </DialogContent>
     </Dialog>
   );
